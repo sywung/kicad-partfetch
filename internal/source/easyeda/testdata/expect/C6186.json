@@ -1,0 +1,98 @@
+{
+ "lcsc": "C6186",
+ "title": "AMS1117-3.3",
+ "package": "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "GND",
+     "x": -11.43,
+     "y": 2.54,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "2",
+     "name": "VOUT",
+     "x": -11.43,
+     "y": 0.0,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "3",
+     "name": "VIN",
+     "x": -11.43,
+     "y": -2.54,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "4",
+     "name": "VOUT",
+     "x": 11.43,
+     "y": 0.0,
+     "angle": 180,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "1",
+   "shape": "RECT",
+   "x": 2.9699,
+   "y": 2.3,
+   "w": 2.5,
+   "h": 1.1,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "RECT",
+   "x": 2.9699,
+   "y": 0.0,
+   "w": 2.5,
+   "h": 1.1,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "RECT",
+   "x": 2.9699,
+   "y": -2.3,
+   "w": 2.5,
+   "h": 1.1,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "RECT",
+   "x": -2.97,
+   "y": 0.0,
+   "w": 2.34,
+   "h": 3.6,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "e80246a9471445bfb635be848806a22e",
+  "title": "SOT-223-4P_L6.5-W3.5-H1.6-LS7.0-P2.30"
+ }
+}

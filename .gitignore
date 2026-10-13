@@ -1,0 +1,9 @@
+/bin/
+/build/bin/
+/out/
+node_modules/
+frontend/dist/*
+!frontend/dist/.gitkeep
+frontend/wailsjs/
+*.bak
+.DS_Store

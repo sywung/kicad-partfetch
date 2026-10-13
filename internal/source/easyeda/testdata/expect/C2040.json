@@ -1,0 +1,1158 @@
+{
+ "lcsc": "C2040",
+ "title": "RP2040",
+ "package": "LQFN-56_L7.0-W7.0-P0.4-EP",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "9",
+     "name": "GPIO7",
+     "x": 31.75,
+     "y": 17.78,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "8",
+     "name": "GPIO6",
+     "x": 31.75,
+     "y": 20.32,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "7",
+     "name": "GPIO5",
+     "x": 31.75,
+     "y": 22.86,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "6",
+     "name": "GPIO4",
+     "x": 31.75,
+     "y": 25.4,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "57",
+     "name": "GND",
+     "x": 0.0,
+     "y": -48.26,
+     "angle": 90,
+     "length": 2.54
+    },
+    {
+     "number": "56",
+     "name": "QSPI_SS",
+     "x": -31.75,
+     "y": 34.29,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "55",
+     "name": "QSPI_SD1",
+     "x": -31.75,
+     "y": 27.94,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "54",
+     "name": "QSPI_SD2",
+     "x": -31.75,
+     "y": 25.4,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "53",
+     "name": "QSPI_SD0",
+     "x": -31.75,
+     "y": 30.48,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "52",
+     "name": "QSPI_SCLK",
+     "x": -31.75,
+     "y": 19.05,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "51",
+     "name": "QSPI_SD3",
+     "x": -31.75,
+     "y": 22.86,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "50",
+     "name": "DVDD",
+     "x": -20.32,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "5",
+     "name": "GPIO3",
+     "x": 31.75,
+     "y": 27.94,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "49",
+     "name": "IOVDD",
+     "x": -3.81,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "48",
+     "name": "USB_VDD",
+     "x": 12.7,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "47",
+     "name": "USB_DP",
+     "x": 31.75,
+     "y": 45.72,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "46",
+     "name": "USB_DM",
+     "x": 31.75,
+     "y": 43.18,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "45",
+     "name": "VREG_VOUT",
+     "x": -12.7,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "44",
+     "name": "VREG_IN",
+     "x": -8.89,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "43",
+     "name": "ADC_AVDD",
+     "x": 16.51,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "42",
+     "name": "IOVDD",
+     "x": -1.27,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "41",
+     "name": "GPIO29_ADC3",
+     "x": 31.75,
+     "y": -40.64,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "40",
+     "name": "GPIO28_ADC2",
+     "x": 31.75,
+     "y": -38.1,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "4",
+     "name": "GPIO2",
+     "x": 31.75,
+     "y": 30.48,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "39",
+     "name": "GPIO27_ADC1",
+     "x": 31.75,
+     "y": -35.56,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "38",
+     "name": "GPIO26_ADC0",
+     "x": 31.75,
+     "y": -33.02,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "37",
+     "name": "GPIO25",
+     "x": 31.75,
+     "y": -27.94,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "36",
+     "name": "GPIO24",
+     "x": 31.75,
+     "y": -25.4,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "35",
+     "name": "GPIO23",
+     "x": 31.75,
+     "y": -22.86,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "34",
+     "name": "GPIO22",
+     "x": 31.75,
+     "y": -20.32,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "33",
+     "name": "IOVDD",
+     "x": 1.27,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "32",
+     "name": "GPIO21",
+     "x": 31.75,
+     "y": -17.78,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "31",
+     "name": "GPIO20",
+     "x": 31.75,
+     "y": -15.24,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "30",
+     "name": "GPIO19",
+     "x": 31.75,
+     "y": -12.7,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "3",
+     "name": "GPIO1",
+     "x": 31.75,
+     "y": 33.02,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "29",
+     "name": "GPIO18",
+     "x": 31.75,
+     "y": -10.16,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "28",
+     "name": "GPIO17",
+     "x": 31.75,
+     "y": -7.62,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "27",
+     "name": "GPIO16",
+     "x": 31.75,
+     "y": -5.08,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "26",
+     "name": "RUN",
+     "x": -31.75,
+     "y": -17.78,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "25",
+     "name": "SWD",
+     "x": -31.75,
+     "y": -31.75,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "24",
+     "name": "SWCLK",
+     "x": -31.75,
+     "y": -29.21,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "23",
+     "name": "DVDD",
+     "x": -17.78,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "22",
+     "name": "IOVDD",
+     "x": 3.81,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "21",
+     "name": "XOUT",
+     "x": -31.75,
+     "y": -5.08,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "20",
+     "name": "XIN",
+     "x": -31.75,
+     "y": 0.0,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "2",
+     "name": "GPIO0",
+     "x": 31.75,
+     "y": 35.56,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "19",
+     "name": "TESTEN",
+     "x": -12.7,
+     "y": -48.26,
+     "angle": 90,
+     "length": 2.54
+    },
+    {
+     "number": "18",
+     "name": "GPIO15",
+     "x": 31.75,
+     "y": -2.54,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "17",
+     "name": "GPIO14",
+     "x": 31.75,
+     "y": 0.0,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "16",
+     "name": "GPIO13",
+     "x": 31.75,
+     "y": 2.54,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "15",
+     "name": "GPIO12",
+     "x": 31.75,
+     "y": 5.08,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "14",
+     "name": "GPIO11",
+     "x": 31.75,
+     "y": 7.62,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "13",
+     "name": "GPIO10",
+     "x": 31.75,
+     "y": 10.16,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "12",
+     "name": "GPIO9",
+     "x": 31.75,
+     "y": 12.7,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "11",
+     "name": "GPIO8",
+     "x": 31.75,
+     "y": 15.24,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "10",
+     "name": "IOVDD",
+     "x": 6.35,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    },
+    {
+     "number": "1",
+     "name": "IOVDD",
+     "x": 8.89,
+     "y": 53.34,
+     "angle": 270,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "57",
+   "shape": "RECT",
+   "x": 0.0,
+   "y": 0.0,
+   "w": 3.1,
+   "h": 3.1,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "56",
+   "shape": "RECT",
+   "x": -2.5999,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "55",
+   "shape": "RECT",
+   "x": -2.2001,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "54",
+   "shape": "RECT",
+   "x": -1.8001,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "53",
+   "shape": "RECT",
+   "x": -1.4,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "52",
+   "shape": "RECT",
+   "x": -1.0,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "51",
+   "shape": "RECT",
+   "x": -0.5999,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "50",
+   "shape": "RECT",
+   "x": -0.2002,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "49",
+   "shape": "RECT",
+   "x": 0.1999,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "48",
+   "shape": "RECT",
+   "x": 0.5999,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "47",
+   "shape": "RECT",
+   "x": 1.0,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "46",
+   "shape": "RECT",
+   "x": 1.4,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "45",
+   "shape": "RECT",
+   "x": 1.7998,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "44",
+   "shape": "RECT",
+   "x": 2.1999,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "43",
+   "shape": "RECT",
+   "x": 2.5999,
+   "y": -3.4249,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 270.0
+  },
+  {
+   "number": "42",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -2.5999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "41",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -2.1999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "40",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -1.7998,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "39",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -1.3998,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "38",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -1.0,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "37",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -0.5999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "36",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": -0.1999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "35",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 0.2002,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "34",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 0.6002,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "33",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 1.0,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "32",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 1.4,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "31",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 1.8001,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "30",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 2.2001,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "29",
+   "shape": "RECT",
+   "x": 3.4249,
+   "y": 2.6002,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "28",
+   "shape": "RECT",
+   "x": 2.5999,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "27",
+   "shape": "RECT",
+   "x": 2.1999,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "26",
+   "shape": "RECT",
+   "x": 1.7998,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "25",
+   "shape": "RECT",
+   "x": 1.4,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "24",
+   "shape": "RECT",
+   "x": 1.0,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "23",
+   "shape": "RECT",
+   "x": 0.5999,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "22",
+   "shape": "RECT",
+   "x": 0.1999,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "21",
+   "shape": "RECT",
+   "x": -0.2002,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "20",
+   "shape": "RECT",
+   "x": -0.5999,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "19",
+   "shape": "RECT",
+   "x": -1.0,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "18",
+   "shape": "RECT",
+   "x": -1.4,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "17",
+   "shape": "RECT",
+   "x": -1.8001,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "16",
+   "shape": "RECT",
+   "x": -2.2001,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "15",
+   "shape": "RECT",
+   "x": -2.5999,
+   "y": 3.4252,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 90.0
+  },
+  {
+   "number": "14",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 2.6002,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "13",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 2.2001,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "12",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 1.8001,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "11",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 1.4,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "10",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 1.0,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "9",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 0.6002,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "8",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": 0.2002,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "7",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -0.1999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "6",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -0.5999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "5",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -1.0,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -1.3998,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -1.7998,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -2.1999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "1",
+   "shape": "RECT",
+   "x": -3.4249,
+   "y": -2.5999,
+   "w": 0.85,
+   "h": 0.2,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "76b360a9d4c54384a4e47d7e5af156df",
+  "title": "LQFN-56_L7.0-W7.0-P0.4-EP"
+ }
+}

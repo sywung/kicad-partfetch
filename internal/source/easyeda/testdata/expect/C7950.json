@@ -1,0 +1,178 @@
+{
+ "lcsc": "C7950",
+ "title": "LM358DR2G",
+ "package": "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "1OUT",
+     "x": -12.7,
+     "y": 3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "2",
+     "name": "1IN-",
+     "x": -12.7,
+     "y": 1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "3",
+     "name": "1IN+",
+     "x": -12.7,
+     "y": -1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "4",
+     "name": "GND",
+     "x": -12.7,
+     "y": -3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "5",
+     "name": "2IN+",
+     "x": 12.7,
+     "y": -3.81,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "6",
+     "name": "2IN-",
+     "x": 12.7,
+     "y": -1.27,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "7",
+     "name": "2OUT",
+     "x": 12.7,
+     "y": 1.27,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "8",
+     "name": "VCC",
+     "x": 12.7,
+     "y": 3.81,
+     "angle": 180,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "1",
+   "shape": "OVAL",
+   "x": -1.905,
+   "y": 2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "OVAL",
+   "x": -0.635,
+   "y": 2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "OVAL",
+   "x": 0.635,
+   "y": 2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "OVAL",
+   "x": 1.905,
+   "y": 2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "8",
+   "shape": "OVAL",
+   "x": -1.905,
+   "y": -2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "7",
+   "shape": "OVAL",
+   "x": -0.635,
+   "y": -2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "6",
+   "shape": "OVAL",
+   "x": 0.635,
+   "y": -2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "5",
+   "shape": "OVAL",
+   "x": 1.905,
+   "y": -2.7051,
+   "w": 0.5684,
+   "h": 1.9502,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "7abc64c95a1a4a04a4ef38f9097c870b",
+  "title": "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
+ }
+}

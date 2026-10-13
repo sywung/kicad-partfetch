@@ -1,0 +1,818 @@
+{
+ "lcsc": "C2337",
+ "title": "Header-Male-2.54_1x40",
+ "package": "HDR-TH_40P-P2.54-V-M-1",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "1",
+     "x": -5.08,
+     "y": 49.53,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "2",
+     "name": "2",
+     "x": -5.08,
+     "y": 46.99,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "3",
+     "name": "3",
+     "x": -5.08,
+     "y": 44.45,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "4",
+     "name": "4",
+     "x": -5.08,
+     "y": 41.91,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "5",
+     "name": "5",
+     "x": -5.08,
+     "y": 39.37,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "6",
+     "name": "6",
+     "x": -5.08,
+     "y": 36.83,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "7",
+     "name": "7",
+     "x": -5.08,
+     "y": 34.29,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "8",
+     "name": "8",
+     "x": -5.08,
+     "y": 31.75,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "9",
+     "name": "9",
+     "x": -5.08,
+     "y": 29.21,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "10",
+     "name": "10",
+     "x": -5.08,
+     "y": 26.67,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "11",
+     "name": "11",
+     "x": -5.08,
+     "y": 24.13,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "12",
+     "name": "12",
+     "x": -5.08,
+     "y": 21.59,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "13",
+     "name": "13",
+     "x": -5.08,
+     "y": 19.05,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "14",
+     "name": "14",
+     "x": -5.08,
+     "y": 16.51,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "15",
+     "name": "15",
+     "x": -5.08,
+     "y": 13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "16",
+     "name": "16",
+     "x": -5.08,
+     "y": 11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "17",
+     "name": "17",
+     "x": -5.08,
+     "y": 8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "18",
+     "name": "18",
+     "x": -5.08,
+     "y": 6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "19",
+     "name": "19",
+     "x": -5.08,
+     "y": 3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "20",
+     "name": "20",
+     "x": -5.08,
+     "y": 1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "21",
+     "name": "21",
+     "x": -5.08,
+     "y": -1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "22",
+     "name": "22",
+     "x": -5.08,
+     "y": -3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "23",
+     "name": "23",
+     "x": -5.08,
+     "y": -6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "24",
+     "name": "24",
+     "x": -5.08,
+     "y": -8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "25",
+     "name": "25",
+     "x": -5.08,
+     "y": -11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "26",
+     "name": "26",
+     "x": -5.08,
+     "y": -13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "27",
+     "name": "27",
+     "x": -5.08,
+     "y": -16.51,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "28",
+     "name": "28",
+     "x": -5.08,
+     "y": -19.05,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "29",
+     "name": "29",
+     "x": -5.08,
+     "y": -21.59,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "30",
+     "name": "30",
+     "x": -5.08,
+     "y": -24.13,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "31",
+     "name": "31",
+     "x": -5.08,
+     "y": -26.67,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "32",
+     "name": "32",
+     "x": -5.08,
+     "y": -29.21,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "33",
+     "name": "33",
+     "x": -5.08,
+     "y": -31.75,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "34",
+     "name": "34",
+     "x": -5.08,
+     "y": -34.29,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "35",
+     "name": "35",
+     "x": -5.08,
+     "y": -36.83,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "36",
+     "name": "36",
+     "x": -5.08,
+     "y": -39.37,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "37",
+     "name": "37",
+     "x": -5.08,
+     "y": -41.91,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "38",
+     "name": "38",
+     "x": -5.08,
+     "y": -44.45,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "39",
+     "name": "39",
+     "x": -5.08,
+     "y": -46.99,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "40",
+     "name": "40",
+     "x": -5.08,
+     "y": -49.53,
+     "angle": 0,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "1",
+   "shape": "RECT",
+   "x": -49.53,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.524,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "ELLIPSE",
+   "x": -46.99,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "ELLIPSE",
+   "x": -44.45,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "ELLIPSE",
+   "x": -41.91,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "5",
+   "shape": "ELLIPSE",
+   "x": -39.37,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "6",
+   "shape": "ELLIPSE",
+   "x": -36.83,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "7",
+   "shape": "ELLIPSE",
+   "x": -34.29,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "8",
+   "shape": "ELLIPSE",
+   "x": -31.75,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "9",
+   "shape": "ELLIPSE",
+   "x": -29.21,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "10",
+   "shape": "ELLIPSE",
+   "x": -26.67,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "11",
+   "shape": "ELLIPSE",
+   "x": -24.13,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "12",
+   "shape": "ELLIPSE",
+   "x": -21.59,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "13",
+   "shape": "ELLIPSE",
+   "x": -19.05,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "14",
+   "shape": "ELLIPSE",
+   "x": -16.51,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "15",
+   "shape": "ELLIPSE",
+   "x": -13.97,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "16",
+   "shape": "ELLIPSE",
+   "x": -11.43,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "17",
+   "shape": "ELLIPSE",
+   "x": -8.89,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "18",
+   "shape": "ELLIPSE",
+   "x": -6.35,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "19",
+   "shape": "ELLIPSE",
+   "x": -3.81,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "20",
+   "shape": "ELLIPSE",
+   "x": -1.27,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "21",
+   "shape": "ELLIPSE",
+   "x": 1.27,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "22",
+   "shape": "ELLIPSE",
+   "x": 3.81,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "23",
+   "shape": "ELLIPSE",
+   "x": 6.35,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "24",
+   "shape": "ELLIPSE",
+   "x": 8.89,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "25",
+   "shape": "ELLIPSE",
+   "x": 11.43,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "26",
+   "shape": "ELLIPSE",
+   "x": 13.97,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "27",
+   "shape": "ELLIPSE",
+   "x": 16.51,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "28",
+   "shape": "ELLIPSE",
+   "x": 19.05,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "29",
+   "shape": "ELLIPSE",
+   "x": 21.59,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "30",
+   "shape": "ELLIPSE",
+   "x": 24.13,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "31",
+   "shape": "ELLIPSE",
+   "x": 26.67,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "32",
+   "shape": "ELLIPSE",
+   "x": 29.21,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "33",
+   "shape": "ELLIPSE",
+   "x": 31.75,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "34",
+   "shape": "ELLIPSE",
+   "x": 34.29,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "35",
+   "shape": "ELLIPSE",
+   "x": 36.83,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "36",
+   "shape": "ELLIPSE",
+   "x": 39.37,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "37",
+   "shape": "ELLIPSE",
+   "x": 41.91,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "38",
+   "shape": "ELLIPSE",
+   "x": 44.45,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "39",
+   "shape": "ELLIPSE",
+   "x": 46.99,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "40",
+   "shape": "ELLIPSE",
+   "x": 49.53,
+   "y": 0.0,
+   "w": 1.7,
+   "h": 1.7,
+   "layer": 11,
+   "drill": 1.1,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "f2050c7f1f5d425995d391746aabf395",
+  "title": "HDR-M-2.54_1x40"
+ }
+}

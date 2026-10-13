@@ -1,0 +1,182 @@
+{
+ "lcsc": "C7426",
+ "title": "NE5532DR",
+ "package": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "OUT1",
+     "x": 10.16,
+     "y": 0.0,
+     "angle": 180,
+     "length": 5.08
+    },
+    {
+     "number": "2",
+     "name": "IN1-",
+     "x": -10.16,
+     "y": 2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "3",
+     "name": "IN1+",
+     "x": -10.16,
+     "y": -2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "8",
+     "name": "VCC+",
+     "x": 0.0,
+     "y": 7.62,
+     "angle": 270,
+     "length": 5.08
+    },
+    {
+     "number": "4",
+     "name": "VCC-/GND",
+     "x": 0.0,
+     "y": -7.62,
+     "angle": 90,
+     "length": 5.08
+    }
+   ]
+  },
+  {
+   "pins": [
+    {
+     "number": "5",
+     "name": "IN2+",
+     "x": -10.16,
+     "y": -2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "6",
+     "name": "IN2-",
+     "x": -10.16,
+     "y": 2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "7",
+     "name": "OUT2",
+     "x": 10.16,
+     "y": 0.0,
+     "angle": 180,
+     "length": 5.08
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "5",
+   "shape": "OVAL",
+   "x": 1.905,
+   "y": -2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "6",
+   "shape": "OVAL",
+   "x": 0.635,
+   "y": -2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "7",
+   "shape": "OVAL",
+   "x": -0.635,
+   "y": -2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "8",
+   "shape": "OVAL",
+   "x": -1.905,
+   "y": -2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "OVAL",
+   "x": 1.905,
+   "y": 2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "OVAL",
+   "x": 0.635,
+   "y": 2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "OVAL",
+   "x": -0.635,
+   "y": 2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "1",
+   "shape": "OVAL",
+   "x": -1.905,
+   "y": 2.5999,
+   "w": 0.588,
+   "h": 1.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "ec3b9f9b31a74655be3e55848dbee9c1",
+  "title": "SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27"
+ }
+}

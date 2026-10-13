@@ -1,0 +1,338 @@
+{
+ "lcsc": "C165948",
+ "title": "TYPE-C-31-M-12",
+ "package": "USB-C_SMD-TYPE-C-31-M-12_1",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "A1B12",
+     "name": "GND",
+     "x": -8.89,
+     "y": 13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "A4B9",
+     "name": "VBUS",
+     "x": -8.89,
+     "y": 11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B8",
+     "name": "SBU2",
+     "x": -8.89,
+     "y": 8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "A5",
+     "name": "CC1",
+     "x": -8.89,
+     "y": 6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B7",
+     "name": "DN2",
+     "x": -8.89,
+     "y": 3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "A6",
+     "name": "DP1",
+     "x": -8.89,
+     "y": 1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "A7",
+     "name": "DN1",
+     "x": -8.89,
+     "y": -1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B6",
+     "name": "DP2",
+     "x": -8.89,
+     "y": -3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "A8",
+     "name": "SBU1",
+     "x": -8.89,
+     "y": -6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B5",
+     "name": "CC2",
+     "x": -8.89,
+     "y": -8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B4A9",
+     "name": "VBUS",
+     "x": -8.89,
+     "y": -11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B1A12",
+     "name": "GND",
+     "x": -8.89,
+     "y": -13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "4",
+     "name": "EH",
+     "x": 8.89,
+     "y": -6.35,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "3",
+     "name": "EH",
+     "x": 8.89,
+     "y": -8.89,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "2",
+     "name": "EH",
+     "x": 8.89,
+     "y": -11.43,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "1",
+     "name": "EH",
+     "x": 8.89,
+     "y": -13.97,
+     "angle": 180,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "B8",
+   "shape": "RECT",
+   "x": -1.7501,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A5",
+   "shape": "RECT",
+   "x": -1.2499,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B7",
+   "shape": "RECT",
+   "x": -0.7501,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A6",
+   "shape": "RECT",
+   "x": -0.2499,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A7",
+   "shape": "RECT",
+   "x": 0.2499,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B6",
+   "shape": "RECT",
+   "x": 0.7501,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A8",
+   "shape": "RECT",
+   "x": 1.2497,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B5",
+   "shape": "RECT",
+   "x": 1.7501,
+   "y": -2.4741,
+   "w": 0.3,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A1B12",
+   "shape": "POLYGON",
+   "x": -3.1999,
+   "y": -2.4741,
+   "w": 0.6,
+   "h": 1.3002,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B1A12",
+   "shape": "POLYGON",
+   "x": 3.2001,
+   "y": -2.4741,
+   "w": 0.6,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B4A9",
+   "shape": "POLYGON",
+   "x": 2.4003,
+   "y": -2.4741,
+   "w": 0.6,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A4B9",
+   "shape": "POLYGON",
+   "x": -2.4,
+   "y": -2.4741,
+   "w": 0.6,
+   "h": 1.3,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "OVAL",
+   "x": 4.3251,
+   "y": 2.4741,
+   "w": 1.2,
+   "h": 1.8,
+   "layer": 11,
+   "drill": 0.8,
+   "slot": 1.2,
+   "rotation": 0.0
+  },
+  {
+   "number": "1",
+   "shape": "OVAL",
+   "x": 4.3251,
+   "y": -1.7057,
+   "w": 1.2,
+   "h": 2.0,
+   "layer": 11,
+   "drill": 0.8,
+   "slot": 1.5,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "OVAL",
+   "x": -4.3251,
+   "y": -1.7057,
+   "w": 1.2,
+   "h": 2.0,
+   "layer": 11,
+   "drill": 0.8,
+   "slot": 1.5,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "OVAL",
+   "x": -4.3251,
+   "y": 2.4741,
+   "w": 1.2,
+   "h": 1.8,
+   "layer": 11,
+   "drill": 0.8,
+   "slot": 1.2,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 2,
+ "model3d": {
+  "uuid": "617b05f9bba7410b96c001093d8189e4",
+  "title": "USB-C_SMD-TYPE-C-31-M-12_1"
+ }
+}

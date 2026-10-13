@@ -1,0 +1,578 @@
+{
+ "lcsc": "C134092",
+ "title": "105450-0101",
+ "package": "USB-C-SMD_TYPE-C-USB-18",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "B1",
+     "name": "GND",
+     "x": -11.43,
+     "y": 13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B2",
+     "name": "TX2+",
+     "x": -11.43,
+     "y": 11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B3",
+     "name": "TX2-",
+     "x": -11.43,
+     "y": 8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B4",
+     "name": "VBUS",
+     "x": -11.43,
+     "y": 6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B5",
+     "name": "CC2",
+     "x": -11.43,
+     "y": 3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B6",
+     "name": "D+",
+     "x": -11.43,
+     "y": 1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B7",
+     "name": "D-",
+     "x": -11.43,
+     "y": -1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B8",
+     "name": "SBU2",
+     "x": -11.43,
+     "y": -3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B9",
+     "name": "VBUS",
+     "x": -11.43,
+     "y": -6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B10",
+     "name": "RX1-",
+     "x": -11.43,
+     "y": -8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B11",
+     "name": "RX1+",
+     "x": -11.43,
+     "y": -11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "B12",
+     "name": "GND",
+     "x": -11.43,
+     "y": -13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "0",
+     "name": "0",
+     "x": -1.27,
+     "y": 21.59,
+     "angle": 270,
+     "length": 5.08
+    },
+    {
+     "number": "0",
+     "name": "25",
+     "x": 1.27,
+     "y": 21.59,
+     "angle": 270,
+     "length": 5.08
+    },
+    {
+     "number": "0",
+     "name": "0",
+     "x": -1.27,
+     "y": -21.59,
+     "angle": 90,
+     "length": 5.08
+    },
+    {
+     "number": "0",
+     "name": "0",
+     "x": 1.27,
+     "y": -21.59,
+     "angle": 90,
+     "length": 5.08
+    },
+    {
+     "number": "A1",
+     "name": "GND",
+     "x": 11.43,
+     "y": -13.97,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A2",
+     "name": "TX1+",
+     "x": 11.43,
+     "y": -11.43,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A3",
+     "name": "TX1-",
+     "x": 11.43,
+     "y": -8.89,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A4",
+     "name": "VBUS",
+     "x": 11.43,
+     "y": -6.35,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A5",
+     "name": "CC1",
+     "x": 11.43,
+     "y": -3.81,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A6",
+     "name": "D+",
+     "x": 11.43,
+     "y": -1.27,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A7",
+     "name": "D-",
+     "x": 11.43,
+     "y": 1.27,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A8",
+     "name": "SBU1",
+     "x": 11.43,
+     "y": 3.81,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A9",
+     "name": "VBUS",
+     "x": 11.43,
+     "y": 6.35,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A10",
+     "name": "RX2-",
+     "x": 11.43,
+     "y": 8.89,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A11",
+     "name": "RX2+",
+     "x": 11.43,
+     "y": 11.43,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "A12",
+     "name": "GND",
+     "x": 11.43,
+     "y": 13.97,
+     "angle": 180,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "A1",
+   "shape": "RECT",
+   "x": -3.0,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A2",
+   "shape": "RECT",
+   "x": -2.4999,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A3",
+   "shape": "RECT",
+   "x": -2.0,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A4",
+   "shape": "RECT",
+   "x": -1.4999,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A5",
+   "shape": "RECT",
+   "x": -1.0,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A6",
+   "shape": "RECT",
+   "x": -0.4999,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A7",
+   "shape": "RECT",
+   "x": 0.5001,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A8",
+   "shape": "RECT",
+   "x": 1.0,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A9",
+   "shape": "RECT",
+   "x": 1.5001,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A10",
+   "shape": "RECT",
+   "x": 2.0,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A11",
+   "shape": "RECT",
+   "x": 2.5001,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "A12",
+   "shape": "RECT",
+   "x": 3.0,
+   "y": -2.91,
+   "w": 0.3,
+   "h": 0.8,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B12",
+   "shape": "RECT",
+   "x": -3.1001,
+   "y": -1.5599,
+   "w": 1.0,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B11",
+   "shape": "RECT",
+   "x": -2.2499,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B10",
+   "shape": "RECT",
+   "x": -1.7501,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B9",
+   "shape": "RECT",
+   "x": -1.2499,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B8",
+   "shape": "RECT",
+   "x": -0.7501,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B7",
+   "shape": "RECT",
+   "x": -0.2499,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B6",
+   "shape": "RECT",
+   "x": 0.2499,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B5",
+   "shape": "RECT",
+   "x": 0.7501,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B4",
+   "shape": "RECT",
+   "x": 1.2499,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B3",
+   "shape": "RECT",
+   "x": 1.7501,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B2",
+   "shape": "RECT",
+   "x": 2.2499,
+   "y": -1.5599,
+   "w": 0.3,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "B1",
+   "shape": "RECT",
+   "x": 3.1001,
+   "y": -1.5599,
+   "w": 1.0,
+   "h": 0.7,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "0",
+   "shape": "OVAL",
+   "x": 4.32,
+   "y": -2.45,
+   "w": 1.0,
+   "h": 2.1,
+   "layer": 11,
+   "drill": 0.6,
+   "slot": 1.6,
+   "rotation": 0.0
+  },
+  {
+   "number": "0",
+   "shape": "OVAL",
+   "x": -4.32,
+   "y": -2.45,
+   "w": 1.0,
+   "h": 2.1,
+   "layer": 11,
+   "drill": 0.6,
+   "slot": 1.6,
+   "rotation": 0.0
+  },
+  {
+   "number": "0",
+   "shape": "OVAL",
+   "x": -4.32,
+   "y": 2.91,
+   "w": 1.0,
+   "h": 2.6,
+   "layer": 11,
+   "drill": 0.6,
+   "slot": 2.1,
+   "rotation": 0.0
+  },
+  {
+   "number": "0",
+   "shape": "OVAL",
+   "x": 4.32,
+   "y": 2.91,
+   "w": 1.0,
+   "h": 2.6,
+   "layer": 11,
+   "drill": 0.6,
+   "slot": 2.1,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "753ec1c05a40429c836855bddae44cbc",
+  "title": "USB-C-SMD_TYPE-C-USB-18"
+ }
+}

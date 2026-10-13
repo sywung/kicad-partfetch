@@ -1,0 +1,78 @@
+{
+ "lcsc": "C5446",
+ "title": "XC6206P332MR",
+ "package": "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "GND",
+     "x": 10.16,
+     "y": -5.08,
+     "angle": 180,
+     "length": 5.08
+    },
+    {
+     "number": "3",
+     "name": "Vin",
+     "x": -10.16,
+     "y": 0.0,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "2",
+     "name": "Vout",
+     "x": 10.16,
+     "y": 5.08,
+     "angle": 180,
+     "length": 5.08
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "1",
+   "shape": "RECT",
+   "x": 1.2351,
+   "y": 0.95,
+   "w": 1.07,
+   "h": 0.6,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "RECT",
+   "x": 1.2351,
+   "y": -0.95,
+   "w": 1.07,
+   "h": 0.6,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "RECT",
+   "x": -1.2351,
+   "y": 0.0,
+   "w": 1.07,
+   "h": 0.6,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "cefd4596db214da394d9632b2b88f8f2",
+  "title": "SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95"
+ }
+}

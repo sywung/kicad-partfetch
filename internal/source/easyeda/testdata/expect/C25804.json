@@ -1,0 +1,58 @@
+{
+ "lcsc": "C25804",
+ "title": "0603WAF1002T5E",
+ "package": "R0603",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "2",
+     "name": "2",
+     "x": 5.08,
+     "y": 0.0,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "1",
+     "name": "1",
+     "x": -5.08,
+     "y": 0.0,
+     "angle": 0,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "2",
+   "shape": "RECT",
+   "x": 0.7534,
+   "y": 0.0,
+   "w": 0.8065,
+   "h": 0.864,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "1",
+   "shape": "RECT",
+   "x": -0.7534,
+   "y": 0.0,
+   "w": 0.8065,
+   "h": 0.864,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "6bd5cd867e9542ebae21caaf5d2d4c4d",
+  "title": "R0603"
+ }
+}

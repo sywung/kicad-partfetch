@@ -1,0 +1,310 @@
+{
+ "lcsc": "C71035",
+ "title": "LM324DT",
+ "package": "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "OUT1",
+     "x": 10.16,
+     "y": 0.0,
+     "angle": 180,
+     "length": 5.08
+    },
+    {
+     "number": "2",
+     "name": "IN1-",
+     "x": -10.16,
+     "y": 2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "3",
+     "name": "IN1+",
+     "x": -10.16,
+     "y": -2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "4",
+     "name": "VCC+",
+     "x": 0.0,
+     "y": 7.62,
+     "angle": 270,
+     "length": 5.08
+    },
+    {
+     "number": "11",
+     "name": "VCC-",
+     "x": 0.0,
+     "y": -7.62,
+     "angle": 90,
+     "length": 5.08
+    }
+   ]
+  },
+  {
+   "pins": [
+    {
+     "number": "5",
+     "name": "IN2+",
+     "x": -10.16,
+     "y": -2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "6",
+     "name": "IN2-",
+     "x": -10.16,
+     "y": 2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "7",
+     "name": "OUT2",
+     "x": 10.16,
+     "y": 0.0,
+     "angle": 180,
+     "length": 5.08
+    }
+   ]
+  },
+  {
+   "pins": [
+    {
+     "number": "8",
+     "name": "OUT3",
+     "x": 10.16,
+     "y": 0.0,
+     "angle": 180,
+     "length": 5.08
+    },
+    {
+     "number": "9",
+     "name": "IN3-",
+     "x": -10.16,
+     "y": 2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "10",
+     "name": "IN3+",
+     "x": -10.16,
+     "y": -2.54,
+     "angle": 0,
+     "length": 5.08
+    }
+   ]
+  },
+  {
+   "pins": [
+    {
+     "number": "12",
+     "name": "IN4+",
+     "x": -10.16,
+     "y": -2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "13",
+     "name": "IN4-",
+     "x": -10.16,
+     "y": 2.54,
+     "angle": 0,
+     "length": 5.08
+    },
+    {
+     "number": "14",
+     "name": "OUT4",
+     "x": 10.16,
+     "y": 0.0,
+     "angle": 180,
+     "length": 5.08
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "8",
+   "shape": "OVAL",
+   "x": 3.81,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "9",
+   "shape": "OVAL",
+   "x": 2.54,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "10",
+   "shape": "OVAL",
+   "x": 1.27,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "11",
+   "shape": "OVAL",
+   "x": 0.0,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "12",
+   "shape": "OVAL",
+   "x": -1.27,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "13",
+   "shape": "OVAL",
+   "x": -2.54,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "14",
+   "shape": "OVAL",
+   "x": -3.81,
+   "y": -2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "7",
+   "shape": "OVAL",
+   "x": 3.81,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "6",
+   "shape": "OVAL",
+   "x": 2.54,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "5",
+   "shape": "OVAL",
+   "x": 1.27,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "OVAL",
+   "x": 0.0,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "OVAL",
+   "x": -1.27,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "OVAL",
+   "x": -2.54,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "1",
+   "shape": "OVAL",
+   "x": -3.81,
+   "y": 2.619,
+   "w": 0.574,
+   "h": 2.038,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "265efcdb862f47cf9eef6843d570fde7",
+  "title": "SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27"
+ }
+}

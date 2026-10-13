@@ -1,0 +1,58 @@
+{
+ "lcsc": "C72041",
+ "title": "19-217/BHC-ZL1M2RY/3T",
+ "package": "LED0603-FD_BLUE",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "2",
+     "name": "A",
+     "x": 5.08,
+     "y": -1.778,
+     "angle": 180,
+     "length": 3.81
+    },
+    {
+     "number": "1",
+     "name": "C",
+     "x": -5.08,
+     "y": -1.778,
+     "angle": 0,
+     "length": 3.81
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "2",
+   "shape": "RECT",
+   "x": 0.72,
+   "y": 0.0,
+   "w": 0.8,
+   "h": 0.8999,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  },
+  {
+   "number": "1",
+   "shape": "RECT",
+   "x": -0.72,
+   "y": 0.0,
+   "w": 0.8,
+   "h": 0.8999,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 180.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "72af388e57ea4986aa549e090154fbdf",
+  "title": "LED0603-FD_BLUE"
+ }
+}

@@ -1,0 +1,978 @@
+{
+ "lcsc": "C8734",
+ "title": "STM32F103C8T6",
+ "package": "LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL",
+ "units": [
+  {
+   "pins": [
+    {
+     "number": "1",
+     "name": "VBAT",
+     "x": -21.59,
+     "y": 29.21,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "2",
+     "name": "PC13-TAMPER-RTC",
+     "x": -21.59,
+     "y": 26.67,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "3",
+     "name": "PC14-OSC32_IN",
+     "x": -21.59,
+     "y": 24.13,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "4",
+     "name": "PC15-OSC32_OUT",
+     "x": -21.59,
+     "y": 21.59,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "5",
+     "name": "PD0-OSC_IN",
+     "x": -21.59,
+     "y": 19.05,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "6",
+     "name": "PD1-OSC_OUT",
+     "x": -21.59,
+     "y": 16.51,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "7",
+     "name": "NRST",
+     "x": -21.59,
+     "y": 13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "8",
+     "name": "VSSA",
+     "x": -21.59,
+     "y": 11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "9",
+     "name": "VDDA",
+     "x": -21.59,
+     "y": 8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "10",
+     "name": "PA0-WKUP",
+     "x": -21.59,
+     "y": 6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "11",
+     "name": "PA1",
+     "x": -21.59,
+     "y": 3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "12",
+     "name": "PA2",
+     "x": -21.59,
+     "y": 1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "13",
+     "name": "PA3",
+     "x": -21.59,
+     "y": -1.27,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "14",
+     "name": "PA4",
+     "x": -21.59,
+     "y": -3.81,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "15",
+     "name": "PA5",
+     "x": -21.59,
+     "y": -6.35,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "16",
+     "name": "PA6",
+     "x": -21.59,
+     "y": -8.89,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "17",
+     "name": "PA7",
+     "x": -21.59,
+     "y": -11.43,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "18",
+     "name": "PB0",
+     "x": -21.59,
+     "y": -13.97,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "19",
+     "name": "PB1",
+     "x": -21.59,
+     "y": -16.51,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "20",
+     "name": "PB2",
+     "x": -21.59,
+     "y": -19.05,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "21",
+     "name": "PB10",
+     "x": -21.59,
+     "y": -21.59,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "22",
+     "name": "PB11",
+     "x": -21.59,
+     "y": -24.13,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "23",
+     "name": "VSS_1",
+     "x": -21.59,
+     "y": -26.67,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "24",
+     "name": "VDD_1",
+     "x": -21.59,
+     "y": -29.21,
+     "angle": 0,
+     "length": 2.54
+    },
+    {
+     "number": "25",
+     "name": "PB12",
+     "x": 21.59,
+     "y": -29.21,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "26",
+     "name": "PB13",
+     "x": 21.59,
+     "y": -26.67,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "27",
+     "name": "PB14",
+     "x": 21.59,
+     "y": -24.13,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "28",
+     "name": "PB15",
+     "x": 21.59,
+     "y": -21.59,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "29",
+     "name": "PA8",
+     "x": 21.59,
+     "y": -19.05,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "30",
+     "name": "PA9",
+     "x": 21.59,
+     "y": -16.51,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "31",
+     "name": "PA10",
+     "x": 21.59,
+     "y": -13.97,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "32",
+     "name": "PA11",
+     "x": 21.59,
+     "y": -11.43,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "33",
+     "name": "PA12",
+     "x": 21.59,
+     "y": -8.89,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "34",
+     "name": "PA13",
+     "x": 21.59,
+     "y": -6.35,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "35",
+     "name": "VSS_2",
+     "x": 21.59,
+     "y": -3.81,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "36",
+     "name": "VDD_2",
+     "x": 21.59,
+     "y": -1.27,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "37",
+     "name": "PA14",
+     "x": 21.59,
+     "y": 1.27,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "38",
+     "name": "PA15",
+     "x": 21.59,
+     "y": 3.81,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "39",
+     "name": "PB3",
+     "x": 21.59,
+     "y": 6.35,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "40",
+     "name": "PB4",
+     "x": 21.59,
+     "y": 8.89,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "41",
+     "name": "PB5",
+     "x": 21.59,
+     "y": 11.43,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "42",
+     "name": "PB6",
+     "x": 21.59,
+     "y": 13.97,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "43",
+     "name": "PB7",
+     "x": 21.59,
+     "y": 16.51,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "44",
+     "name": "BOOT0",
+     "x": 21.59,
+     "y": 19.05,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "45",
+     "name": "PB8",
+     "x": 21.59,
+     "y": 21.59,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "46",
+     "name": "PB9",
+     "x": 21.59,
+     "y": 24.13,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "47",
+     "name": "VSS_3",
+     "x": 21.59,
+     "y": 26.67,
+     "angle": 180,
+     "length": 2.54
+    },
+    {
+     "number": "48",
+     "name": "VDD_3",
+     "x": 21.59,
+     "y": 29.21,
+     "angle": 180,
+     "length": 2.54
+    }
+   ]
+  }
+ ],
+ "pads": [
+  {
+   "number": "1",
+   "shape": "OVAL",
+   "x": -2.7501,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "2",
+   "shape": "OVAL",
+   "x": -2.2499,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "3",
+   "shape": "OVAL",
+   "x": -1.7501,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "4",
+   "shape": "OVAL",
+   "x": -1.2499,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "5",
+   "shape": "OVAL",
+   "x": -0.7501,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "6",
+   "shape": "OVAL",
+   "x": -0.2499,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "7",
+   "shape": "OVAL",
+   "x": 0.2499,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "8",
+   "shape": "OVAL",
+   "x": 0.7501,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "9",
+   "shape": "OVAL",
+   "x": 1.2499,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "10",
+   "shape": "OVAL",
+   "x": 1.7501,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "11",
+   "shape": "OVAL",
+   "x": 2.2499,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "12",
+   "shape": "OVAL",
+   "x": 2.7501,
+   "y": 4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "13",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": 2.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "14",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": 2.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "15",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": 1.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "16",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": 1.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "17",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": 0.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "18",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": 0.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "19",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": -0.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "20",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": -0.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "21",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": -1.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "22",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": -1.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "23",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": -2.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "24",
+   "shape": "OVAL",
+   "x": 4.2499,
+   "y": -2.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "25",
+   "shape": "OVAL",
+   "x": 2.7501,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "26",
+   "shape": "OVAL",
+   "x": 2.2499,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "27",
+   "shape": "OVAL",
+   "x": 1.7501,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "28",
+   "shape": "OVAL",
+   "x": 1.2499,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "29",
+   "shape": "OVAL",
+   "x": 0.7501,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "30",
+   "shape": "OVAL",
+   "x": 0.2499,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "31",
+   "shape": "OVAL",
+   "x": -0.2499,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "32",
+   "shape": "OVAL",
+   "x": -0.7501,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "33",
+   "shape": "OVAL",
+   "x": -1.2499,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "34",
+   "shape": "OVAL",
+   "x": -1.7501,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "35",
+   "shape": "OVAL",
+   "x": -2.2499,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "36",
+   "shape": "OVAL",
+   "x": -2.7501,
+   "y": -4.2499,
+   "w": 0.27,
+   "h": 1.5,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "37",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": -2.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "38",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": -2.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "39",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": -1.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "40",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": -1.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "41",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": -0.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "42",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": -0.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "43",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": 0.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "44",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": 0.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "45",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": 1.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "46",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": 1.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "47",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": 2.2499,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  },
+  {
+   "number": "48",
+   "shape": "OVAL",
+   "x": -4.2499,
+   "y": 2.7501,
+   "w": 1.5,
+   "h": 0.27,
+   "layer": 1,
+   "drill": 0.0,
+   "slot": 0.0,
+   "rotation": 0.0
+  }
+ ],
+ "npth_holes": 0,
+ "model3d": {
+  "uuid": "a4b96ad857dc48c08dab3d0efdf20aec",
+  "title": "LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50"
+ }
+}

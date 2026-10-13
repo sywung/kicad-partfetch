@@ -1,0 +1,41 @@
+@import './styles/tokens.css';
+
+* { box-sizing: border-box; }
+html, body, #app { width: 100%; min-width: 1100px; height: 100%; min-height: 700px; margin: 0; }
+body {
+  color: var(--ink);
+  background-color: var(--paper);
+  background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px), linear-gradient(var(--grid-major) 1px, transparent 1px), linear-gradient(90deg, var(--grid-major) 1px, transparent 1px);
+  background-size: 12px 12px, 12px 12px, 60px 60px, 60px 60px;
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.45;
+}
+button, input, select { font: inherit; }
+button { color: inherit; }
+button:focus-visible, input:focus-visible, select:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+button:disabled { cursor: not-allowed; opacity: .5; }
+a { color: inherit; }
+.mono { font-family: var(--mono); font-feature-settings: 'tnum'; }
+.svg-preview svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.sym-body, .sym-pin { fill: none; stroke: var(--ink); stroke-width: 1.6px; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; }
+.sym-pin { stroke: var(--accent); stroke-width: 1.3px; }
+.sym-pin-name, .sym-pin-num, .sym-text { font-family: var(--mono); font-size: 1.27px; dominant-baseline: central; }
+.sym-pin-name, .sym-text { fill: var(--ink); }
+.sym-pin-num { fill: var(--accent); font-size: 1px; }
+.fp-cu-f { fill: var(--copper-front); stroke: none; }
+.fp-cu-b { fill: var(--copper-back); stroke: none; }
+.fp-cu-th { fill: var(--copper-th); stroke: none; }
+.fp-hole { fill: var(--hole); stroke: var(--ink-soft); stroke-width: .035; }
+.fp-silk { fill: none; stroke: var(--silk); stroke-width: .12; }
+.fp-fab { fill: none; stroke: var(--fab); stroke-width: .09; }
+.fp-paste { fill: var(--paste); stroke: none; opacity: .45; }
+.fp-mask { fill: var(--mask); stroke: none; opacity: .35; }
+.fp-crtyd { fill: none; stroke: var(--courtyard); stroke-width: .08; stroke-dasharray: .25 .15; }
+.fp-edge { fill: none; stroke: var(--edge); stroke-width: .12; }
+.fp-user { fill: none; stroke: var(--user-layer); stroke-width: .09; }
+.fp-pad-num { fill: var(--ink); stroke: none; font-family: var(--mono); font-weight: 500; }
+::selection { color: var(--paper-raised); background: var(--accent); }
+@media (prefers-reduced-motion: no-preference) {
+  button, .result-row, .panel, .tab-button { transition: transform .16s ease, opacity .16s ease; }
+}
